@@ -1,0 +1,7 @@
+C:\Users\Otavio\Desktop\curso 2\Cadastro bancario\Cadastro bancario\bin\Debug\Cadastro bancario.exe.config
+C:\Users\Otavio\Desktop\curso 2\Cadastro bancario\Cadastro bancario\bin\Debug\Cadastro bancario.exe
+C:\Users\Otavio\Desktop\curso 2\Cadastro bancario\Cadastro bancario\bin\Debug\Cadastro bancario.pdb
+C:\Users\Otavio\Desktop\curso 2\Cadastro bancario\Cadastro bancario\obj\Debug\Cadastro bancario.csprojAssemblyReference.cache
+C:\Users\Otavio\Desktop\curso 2\Cadastro bancario\Cadastro bancario\obj\Debug\Cadastro bancario.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\Desktop\curso 2\Cadastro bancario\Cadastro bancario\obj\Debug\Cadastro bancario.exe
+C:\Users\Otavio\Desktop\curso 2\Cadastro bancario\Cadastro bancario\obj\Debug\Cadastro bancario.pdb
